@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>睡神BRD1_50</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CombatRoutine">
+      <HintPath>G:\WY\AE2.0-main\AE2.0-main\AEAssistCNVersion\AEAssist\CombatRoutine.dll</HintPath>
+    </Reference>
+    <Reference Include="Common">
+      <HintPath>G:\WY\AE2.0-main\AE2.0-main\AEAssistCNVersion\AEAssist\Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ImGui.NET">
+      <HintPath>..\..\..\ImGui.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

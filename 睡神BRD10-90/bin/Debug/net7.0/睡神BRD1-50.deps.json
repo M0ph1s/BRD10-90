@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "睡神BRD1-50/1.0.0": {
+        "dependencies": {
+          "CombatRoutine": "1.0.0.0",
+          "Common": "1.0.0.0",
+          "ImGui.NET": "1.82.0.0"
+        },
+        "runtime": {
+          "睡神BRD1-50.dll": {}
+        }
+      },
+      "CombatRoutine/1.0.0.0": {
+        "runtime": {
+          "CombatRoutine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Common/1.0.0.0": {
+        "runtime": {
+          "Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ImGui.NET/1.82.0.0": {
+        "runtime": {
+          "ImGui.NET.dll": {
+            "assemblyVersion": "1.82.0.0",
+            "fileVersion": "1.82.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
+          }
+        }
+      },
+      "System.Windows.Forms/7.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.523.17501"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "睡神BRD1-50/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CombatRoutine/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ImGui.NET/1.82.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
